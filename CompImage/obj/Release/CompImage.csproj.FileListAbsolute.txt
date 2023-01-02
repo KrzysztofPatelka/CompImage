@@ -1,0 +1,14 @@
+C:\Users\krzysztof.patelka\source\repos\CompImage\CompImage\bin\Release\CompImage.exe.config
+C:\Users\krzysztof.patelka\source\repos\CompImage\CompImage\bin\Release\CompImage.exe
+C:\Users\krzysztof.patelka\source\repos\CompImage\CompImage\bin\Release\CompImage.pdb
+C:\Users\krzysztof.patelka\source\repos\CompImage\CompImage\bin\Release\Spire.Pdf.dll
+C:\Users\krzysztof.patelka\source\repos\CompImage\CompImage\bin\Release\Microsoft.mshtml.dll
+C:\Users\krzysztof.patelka\source\repos\CompImage\CompImage\bin\Release\Spire.Pdf.xml
+C:\Users\krzysztof.patelka\source\repos\CompImage\CompImage\obj\Release\CompImage.csproj.AssemblyReference.cache
+C:\Users\krzysztof.patelka\source\repos\CompImage\CompImage\obj\Release\CompImage.Form1.resources
+C:\Users\krzysztof.patelka\source\repos\CompImage\CompImage\obj\Release\CompImage.Properties.Resources.resources
+C:\Users\krzysztof.patelka\source\repos\CompImage\CompImage\obj\Release\CompImage.csproj.GenerateResource.cache
+C:\Users\krzysztof.patelka\source\repos\CompImage\CompImage\obj\Release\CompImage.csproj.CoreCompileInputs.cache
+C:\Users\krzysztof.patelka\source\repos\CompImage\CompImage\obj\Release\CompImage.csproj.CopyComplete
+C:\Users\krzysztof.patelka\source\repos\CompImage\CompImage\obj\Release\CompImage.exe
+C:\Users\krzysztof.patelka\source\repos\CompImage\CompImage\obj\Release\CompImage.pdb
